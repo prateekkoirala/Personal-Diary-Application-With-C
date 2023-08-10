@@ -82,5 +82,7 @@
 11. The application uses files to store user information and diary entries. The "users.txt" file stores user information (username and hashed password), while the "diary.txt" file stores diary entries (username, date, and encrypted content).
 
 12. The encryption and decryption algorithms used in the application are simple and not meant for strong security but to provide a basic level of privacy for the diary entries.
-# People who directly and indirectly helped in this project:
-<a href="https://github.com/Rajeshsharma-123">RajeshSharma</a>
+# Other people who directly and indirectly helped in this project:
+<a href="https://github.com/Rajeshsharma-123">RajeshSharma</a></br>
+<a href="https://github.com/smtjoshibctioepc">SumitJoshi</a></br>
+<a href="https://github.com/prtkdhl">PratikDahal</a></br>
