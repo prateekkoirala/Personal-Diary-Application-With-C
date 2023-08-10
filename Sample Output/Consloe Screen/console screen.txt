@@ -1,0 +1,101 @@
+
+========== Personal Diary Application ==========
+1. Register
+2. Login
+3. Exit
+Enter your choice: 1
+Enter username: Prateek
+Enter password: password
+Registration successful!
+
+========== Personal Diary Application ==========
+1. Register
+2. Login
+3. Exit
+Enter your choice: 2
+Enter username: Prateek
+Enter password: password
+Welcome, Prateek!
+
+======= Logged In as Prateek ========
+1. Write an Entry
+2. View Previous Entries
+3. Search Entries
+4. Logout
+Enter your choice: 1
+Enter date (DD-MM-YYYY): 02-02-2022
+Enter diary content (up to 200 characters): This is first diary content
+Entry written successfully!
+
+======= Logged In as Prateek ========
+1. Write an Entry
+2. View Previous Entries
+3. Search Entries
+4. Logout
+Enter your choice: 1
+Enter date (DD-MM-YYYY): 03-03-2023
+Enter diary content (up to 200 characters): This is second diary content
+Entry written successfully!
+
+======= Logged In as Prateek ========
+1. Write an Entry
+2. View Previous Entries
+3. Search Entries
+4. Logout
+Enter your choice: 3
+Enter search term (date or content): 02-02-2022
+===== Search Results =====
+Date: 02-02-2022
+Content: This is first diary content
+
+
+======= Logged In as Prateek ========
+1. Write an Entry
+2. View Previous Entries
+3. Search Entries
+4. Logout
+Enter your choice: 3
+Enter search term (date or content): 03-03-2023
+===== Search Results =====
+Date: 03-03-2023
+Content: This is second diary content
+
+
+======= Logged In as Prateek ========
+1. Write an Entry
+2. View Previous Entries
+3. Search Entries
+4. Logout
+Enter your choice: 2
+===== Your Previous Entries =====
+Date: 02-02-2022
+Content: This is first diary content
+
+Date: 03-03-2023
+Content: This is second diary content
+
+
+======= Logged In as Prateek ========
+1. Write an Entry
+2. View Previous Entries
+3. Search Entries
+4. Logout
+Enter your choice: 4
+Logged out successfully!
+
+========== Personal Diary Application ==========
+1. Register
+2. Login
+3. Exit
+Enter your choice: Invalid choice. Try again.
+
+========== Personal Diary Application ==========
+1. Register
+2. Login
+3. Exit
+Enter your choice: 3
+Exiting the application.
+
+--------------------------------
+Process exited after 140 seconds with return value 0
+Press any key to continue . . .
